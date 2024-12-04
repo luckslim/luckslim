@@ -1,23 +1,14 @@
-## Hi there 👋
+## Olá, Bem Vindo(a)! 👋
 
-<!--
-**luckslim/luckslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNIFESO (2024 – 2026) e me especializando em desenvolvimento web com foco em tecnologias modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Tenho experiência em PHP, MySQL, HTML, CSS, JavaScript e ReactJS e estou continuamente aprimorando minhas habilidades em bancos de dados não relacionais, como Firebase. Também estou expandindo meus conhecimentos em ReactJS, PHP e JavaScript com a Rocketseat.
 
--->
-# Welcome to My GitHub Profile!
+🌍 Idiomas: Português (nativo) | Inglês (técnico, cursando com EnglishLive).
 
-Here are some stats about my GitHub activity:
+🚀 Aqui você encontrará projetos que refletem minha paixão por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckslim&show_icons=true&theme=dark)
 
