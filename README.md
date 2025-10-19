@@ -4,7 +4,11 @@
 
 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNIFESO (2024 – 2026) e me especializando em desenvolvimento web com foco em tecnologias modernas.
 
-💻 Tenho experiência em PHP, MySQL, HTML, CSS, JavaScript e ReactJS e estou continuamente aprimorando minhas habilidades em bancos de dados não relacionais, como Firebase. Também estou expandindo meus conhecimentos em ReactJS, PHP e JavaScript com a Rocketseat.
+💻 Sou Engenheiro de Software Full Stack com foco em Node.js, NestJS, React e Next.js, aplicando Clean Architecture e DDD.
+Trabalho com TDD, garantindo alta qualidade e manutenção contínua do código.
+Experiência em Docker, testes unitários e E2E.
+Domínio de ORMs, bancos relacionais e não relacionais.
+Apaixonado por criar soluções escaláveis, testáveis e bem estruturadas.
 
 🌍 Idiomas: Português (nativo) | Inglês (técnico, cursando com EnglishLive).
 
@@ -37,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" height="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"  width="50" height="50"/>
-          
 
 
 </div>
