@@ -7,11 +7,11 @@
 ---
 ```bash
 
-💻 Sou Engenheiro de Software Full Stack com foco em Node.js, NestJS, React e Next.js, aplicando Clean Architecture e DDD.
-Trabalho com TDD, garantindo alta qualidade e manutenção contínua do código.
-Experiência em Docker, testes unitários e E2E.
-Domínio de ORMs, bancos relacionais e não relacionais.
-Apaixonado por criar soluções escaláveis, testáveis e bem estruturadas.
+ ## 💻 Sou Engenheiro de Software Full Stack com foco em Node.js, NestJS, React e Next.js, aplicando Clean Architecture e DDD.
+###Trabalho com TDD, garantindo alta qualidade e manutenção contínua do código.
+###Experiência em Docker, testes unitários e E2E.
+###Domínio de ORMs, bancos relacionais e não relacionais.
+###Apaixonado por criar soluções escaláveis, testáveis e bem estruturadas.
 
 ```
 🌍 Idiomas: Português (nativo) | Inglês (técnico, cursando com EnglishLive).
