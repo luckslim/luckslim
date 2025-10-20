@@ -14,7 +14,7 @@ Experiência em Docker, testes unitários e E2E.
 Domínio de ORMs, bancos relacionais e não relacionais.
 Apaixonado por criar soluções escaláveis, testáveis e bem estruturadas.`
 
-🌍 Idiomas: Português (nativo) | Inglês (técnico, cursando com EnglishLive).
+🌍 Idiomas: Português (nativo) | Inglês (técnico).
 
 🚀 Aqui você encontrará projetos que refletem minha paixão por tecnologia e aprendizado contínuo. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
