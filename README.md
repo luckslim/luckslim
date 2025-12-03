@@ -36,16 +36,6 @@ Apaixonado por criar soluções escaláveis, testáveis e bem estruturadas.`
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"  width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 </div>
 
-## 📊 GitHub Stats
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckslim&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckslim&layout=compact&theme=dark" width="48%"/>
-</div>
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckslim&theme=dark" width="48%"/>
-
-</div>
 
 ## ⚡ Mais sobre mim
 
